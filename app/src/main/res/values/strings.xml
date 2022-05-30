@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Ekaterina</string>
+    <string name="bio_text">Hi!
+        \nMy name is Ekaterina.
+        \nI am 23.
+        \nThis is an application about me.
+        \nI live in Russia, Murom.
+        \nI am a photographer.
+        \nI have a mother, a father and a sister.
+        \nI have also a boyfriend. His name is Roma, he is a programmer.
+        \nRoma is 22 years old.
+        \nRoma has a cat, its name is Dasha.</string>
+</resources>
