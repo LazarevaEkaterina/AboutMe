@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">Ekaterina</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
     <string name="bio_text">Hi!
         \nMy name is Ekaterina.
         \nI am 23.
